@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: August 21, 2021
+Last updated: August 22, 2021
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -298,3 +298,4 @@ Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
   * By email: bdgr371@gmail.com
+
