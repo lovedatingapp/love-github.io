@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: August 22, 2021
+Last updated: August 22, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -35,10 +35,10 @@ For the purposes of this Privacy Policy:
     for election of directors or other managing authority.
 
   * Application means the software program provided by the Company downloaded
-    by You on any electronic device, named Love - dating app
+    by You on any electronic device, named Heartt
 
   * Company (referred to as either "the Company", "We", "Us" or "Our" in this
-    Agreement) refers to Love - dating app.
+    Agreement) refers to Heartt.
 
   * Country refers to: Russia
 
